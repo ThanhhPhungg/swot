@@ -2,7 +2,6 @@ ac.ae
 ac.at
 ac.bd
 ac.be
-ac.cn
 ac.cr
 ac.cy
 ac.fj
@@ -21,7 +20,6 @@ ac.mu
 ac.mw
 ac.mz
 ac.ni
-ac.nz
 ac.om
 ac.pa
 ac.pg
@@ -50,7 +48,6 @@ edu.ba
 edu.bb
 edu.bd
 edu.bh
-edu.bi
 edu.bn
 edu.bo
 edu.br
@@ -79,7 +76,6 @@ edu.in
 edu.iq
 edu.jm
 edu.jo
-edu.kg
 edu.kh
 edu.kn
 edu.kw
@@ -128,7 +124,6 @@ edu.tw
 edu.ua
 edu.uy
 edu.ve
-edu.vn
 edu.ws
 edu.ye
 edu.zm
@@ -151,6 +146,5 @@ sch.om
 sch.ps
 sch.sa
 sch.uk
-school.nz
 school.za
 vic.edu.au
